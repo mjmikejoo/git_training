@@ -1,6 +1,7 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 I am editing Alice on github.
 I am editing Alice on github again.
-I am the second line of Alice.
 I am changing Alice.
 I am changing Alice to learn rebase.
+I am changing Alice in the Working Directory!
+I am using pull -r!
