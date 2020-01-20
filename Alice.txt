@@ -5,3 +5,5 @@ I am changing Alice.
 I am changing Alice to learn rebase.
 I am changing Alice in the Working Directory!
 I am using pull -r!
+I am trying interactive rebase.
+I am still trying interactive rebasing.
