@@ -3,3 +3,4 @@ I am editing Alice on github.
 I am editing Alice on github again.
 I am the second line of Alice.
 I am changing Alice.
+I am changing Alice to learn rebase.
